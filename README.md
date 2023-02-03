@@ -1,4 +1,7 @@
 ## Oii eu sou Deyvid Gustavo, um jovem apaixonado por tecnologia!
+
+<!--Status-->
+## ⚡ GitHub statistics
 <div align="center">
   <a href="https://github.com/degu0">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=degu0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
