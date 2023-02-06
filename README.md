@@ -10,6 +10,12 @@
  
 <!--About me--> 
 ##  :man_technologist: My resume
+
+Hello, my name is Deyvid Gustavo and I'm still a beginner in technology/programming.
+
+I'm a brazilian developer. I started studying programming a long time ago and I try to improve my skills as much as I can!
+
+Open for work!
  
 <!--Status-->
 ## ⚡ GitHub statistics
