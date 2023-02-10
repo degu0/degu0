@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=764d9c&height=120&section=header"/>
+
 <div align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=33&duration=4000&pause=2000&color=764D9C&center=true&vCenter=true&width=435&lines=Hello%2C+There+%F0%9F%91%8B!;I'm+Deyvid+;Nice+to+meet+you+%3C3" alt="Typing SVG" /></a>
 </div> 
@@ -36,3 +38,4 @@ Open for work!
   <img align="center" alt="Degu-MySql" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=764d9c&height=120&section=footer"/>
