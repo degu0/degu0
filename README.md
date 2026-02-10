@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/deyvid-gustavo-0642a2235" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://meu-portfolio-degu.vercel.app/" target="_blank">
+  <a href="https://portifolio-degu.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-333?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </div>
